@@ -4,7 +4,7 @@
 	import Protonmail from 'virtual:icons/simple-icons/protonmail';
 </script>
 
-<div
+<footer
 	class="w-full lg:w-2/3 mx-auto text-primary/70 p-4 flex flex-row items-center gap-4 select-none flex-wrap border-t-1 pt-2 m-4"
 >
 	<p>You can find me on:</p>
@@ -22,4 +22,4 @@
 			<Protonmail class="size-5 text-purple-300" />
 		</li>
 	</ul>
-</div>
+</footer>
