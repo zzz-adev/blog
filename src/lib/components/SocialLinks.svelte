@@ -4,7 +4,9 @@
 	import Protonmail from 'virtual:icons/simple-icons/protonmail';
 </script>
 
-<div class="flex flex-wrap gap-2 items-center border-t-1 pt-2 m-4">
+<div
+	class="w-full lg:w-2/3 mx-auto text-primary/70 p-4 flex flex-row items-center gap-4 select-none flex-wrap border-t-1 pt-2 m-4"
+>
 	<p>You can find me on:</p>
 	<ul class="flex flex-wrap gap-2">
 		<li class="flex gap-2 underline bg-secondary p-2 rounded">
