@@ -4,7 +4,7 @@
 	import CatppuccinTailwind from 'virtual:icons/catppuccin/tailwind';
 </script>
 
-<div class="flex flex-row gap-2">
+<div class="flex flex-row gap-2 flex-wrap">
 	Tailwind
 	<CatppuccinTailwind class="size-5" />
 	Figma

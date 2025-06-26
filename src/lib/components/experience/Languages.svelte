@@ -12,7 +12,7 @@
 	<CatppuccinFoldervscodeopen class="size-5" />
 	<p>Languages</p>
 </div>
-<div class="flex flex-row gap-2 px-7 border-l-1">
+<div class="flex flex-row flex-wrap gap-2 px-7 border-l-1">
 	Javascript
 	<CatppuccinJs class="size-5" />
 	<span class="text-teal-400"> Typescript</span>

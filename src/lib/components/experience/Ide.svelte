@@ -4,7 +4,7 @@
 	import SimpleIconsZedindustries from '~icons/simple-icons/zedindustries';
 </script>
 
-<div class="flex flex-row gap-2">
+<div class="flex flex-row gap-2 flex-wrap">
 	<span class="text-teal-400">Zed</span>
 	<SimpleIconsZedindustries class="size-5 text-blue-500" />
 	Cursor, Vscode

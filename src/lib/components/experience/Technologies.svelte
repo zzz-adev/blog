@@ -12,7 +12,7 @@
 	<CatppuccinFolderSrcOpen class="size-5" />
 	<p>Technologies</p>
 </div>
-<div class="flex flex-row gap-2 px-7 border-l-1">
+<div class="flex flex-row gap-2 px-7 border-l-1 flex-wrap">
 	NodeJS, <span class="text-teal-400">Bun</span>
 	<CatppuccinBun class="size-5" />
 	Nuxt
