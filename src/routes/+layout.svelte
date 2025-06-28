@@ -6,7 +6,9 @@
 	import SocialLinks from '$lib/components/SocialLinks.svelte';
 </script>
 
-<ModeWatcher />
-<Navbar />
-{@render children()}
-<SocialLinks />
+<div class="w-full lg:w-2/3 mx-auto relative h-screen">
+	<ModeWatcher />
+	<Navbar />
+	{@render children()}
+	<SocialLinks />
+</div>

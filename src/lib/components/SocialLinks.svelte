@@ -5,7 +5,7 @@
 </script>
 
 <footer
-	class="w-full lg:w-2/3 mx-auto text-primary/70 p-4 flex flex-row items-center gap-4 select-none flex-wrap border-t-1 pt-2 m-4"
+	class="w-full mx-auto text-primary/70 p-4 flex flex-row items-center gap-4 select-none flex-wrap border-t-1 pt-2 m-4"
 >
 	<p>You can find me on:</p>
 	<ul class="flex flex-wrap gap-2">
