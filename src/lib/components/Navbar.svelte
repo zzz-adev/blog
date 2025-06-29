@@ -28,7 +28,7 @@
 				<Tooltip.Root>
 					<Tooltip.Trigger
 						class={buttonVariants({ variant: 'link', size: 'icon' })}
-						onclick={() => goto('/projects')}
+						onclick={() => (window.location.href = 'https://github.com/zzz-adev')}
 					>
 						<CatppuccinMakefile class="size-6" />
 					</Tooltip.Trigger>

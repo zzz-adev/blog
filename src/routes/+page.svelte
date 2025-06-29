@@ -16,7 +16,10 @@
 		I tend to dive deep into the tech I find interesting. I love to learn new things and share my
 		knowledge with others. Because of all of that, I started my own
 		<a href="/blog" class="text-teal-400 underline hover:cursor-pointer">blog</a>. I also try to
-		practice what I preach so <span class="text-teal-400 underline hover:cursor-pointer">here</span>
+		practice what I preach so
+		<a class="text-teal-400 underline hover:cursor-pointer" href="https://github.com/zzz-adev"
+			>here</a
+		>
 		is a curated list of my projects.
 	</p>
 	<p>
